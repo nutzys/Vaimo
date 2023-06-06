@@ -1,0 +1,39 @@
+.countdown-container {
+    display: flex;
+    align-items: center;
+    width: 328px;
+    height: 24px;
+    margin: 24px 0;
+}
+
+.discount-container p {
+    color: #FF6600;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+}
+
+.ends-contianer p {
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    color: #999999;
+}
+
+.counter-container {
+    display: flex;
+    align-items: center;
+}
+
+.counter-container p {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    color: #999999;
+}
+
+.clock {
+    width: 16px;
+    height: 16px;
+    margin: 0 12px 0 24px;
+}

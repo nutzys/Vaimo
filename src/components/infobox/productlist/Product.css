@@ -1,0 +1,19 @@
+.product-container {
+    display: flex;
+}
+
+.title-container {
+    color: #333333;
+    font-size: 14px;
+    line-height: 16px;
+    width: 174px;
+    text-align: left;
+}
+
+.price-container {
+
+}
+
+.counter {
+
+}

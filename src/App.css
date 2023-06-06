@@ -1,0 +1,10 @@
+.App {
+    display: flex;
+    margin-top: 48px;
+    margin-left: 72px;
+}
+
+.drone-img {
+    width: 416px;
+    height: 416px;
+}

@@ -1,0 +1,55 @@
+.pricebox-container {
+    display: flex;
+    width: 526px;
+    height: 64px;
+    margin-top: 12px;
+}
+
+.prices-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.price {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: bold;
+    color: #FF6600;
+}
+
+.old-price {
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    color: #999999;
+    text-decoration: line-through;
+}
+
+.option-container {
+    display: flex;
+}
+
+.option-container p {
+    padding: 4px 12px;
+}
+
+.option {
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    color: #999999;
+}
+
+.options {
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    color: #333333;
+}
+
+.min-order {
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    color: #999999;
+}

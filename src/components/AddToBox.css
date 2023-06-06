@@ -1,0 +1,74 @@
+.atb-container {
+    width: 306px;
+    height: 256px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.05);
+    padding: 24px;
+    
+}
+
+.header-container {
+    display: flex;
+    gap: 48px;
+    margin-bottom: 12px;
+}
+
+.ship-to-container {
+    width: 132px;
+    height: 32px;
+}
+
+.ship-to-container p {
+    color: #999999;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+}
+
+.price-container p{
+    color: #333333;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.lead-container p {
+    font-size: 14px;
+    text-align: left;
+    line-height: 16px;
+    color: #999999;
+    margin-bottom: 12px;
+}
+
+.shipping-container p {
+    font-size: 14px;
+    text-align: left;
+    line-height: 16px;
+    color: #999999;
+}
+
+.actions-container {
+    margin-top: 34px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.actions-container button {
+    width: 258px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.login-button {
+    color: #FFFFFF;
+    background-color: #FF6600;
+    border: none;
+}
+
+.contact-button {
+    border: 1px solid #FF6600;
+    color: #FF6600;
+}
+

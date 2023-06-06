@@ -1,0 +1,41 @@
+.rb-container {
+    display: flex;
+    align-items: center;
+    width: 242px;
+    height: 16px;
+    margin-top: 12px;
+}
+
+.star-container {
+    display: flex;
+    color: #FF6600;
+}
+
+.star-container p {
+    font-size: 12px;
+    text-align: left;
+    line-height: 16px;
+    margin: 0 4px;
+}
+
+.star-container img {
+    width: 14px;
+    height: 14px;
+    margin: 1px;
+}
+
+.reviews {
+    font-size: 12px;
+    text-align: left;
+    line-height: 16px;
+    color: #999999;
+    margin: 0 4px;
+}
+
+.buyers {
+    font-size: 12px;
+    text-align: left;
+    line-height: 16px;
+    color: #333333;
+    margin-left: 22px;
+}

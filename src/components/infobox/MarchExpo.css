@@ -1,0 +1,31 @@
+.march-container {
+    display: flex;
+    width: 526px;
+    height: 40px;
+    background-color: #FFF0E6;
+}
+
+
+.arrow-container {
+    margin: 13px 16px 13px 0;
+}
+
+.ul-container li {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: left;
+    color: #FF6600;
+    margin: 12px 24px;
+}
+
+.logo {
+    width: 76px;
+    height: 40px;
+}
+
+.arrow {
+    width: 8px;
+    height: 14px;
+}
+

@@ -1,0 +1,20 @@
+.hsp-container {
+    height: 48px;
+}
+
+.hsp-container p {
+    font-size: 16px;
+    text-align: left;
+    line-height: 24px;
+}
+
+.hsp-container span {
+    color: #999999;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: left;
+    margin: 2px 8px;
+    background-color: #EDF0F3;
+    border-radius: 2px;
+    padding: 2px 8px;
+}
